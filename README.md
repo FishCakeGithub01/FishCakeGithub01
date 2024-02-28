@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FishCakeGithub01
+- 👀 I’m interested in making random scripts for fun
+- 🌱 I’m currently learning python and C#
+- ⚡ Fun fact: You just read something about someone you probably will never meet in person
